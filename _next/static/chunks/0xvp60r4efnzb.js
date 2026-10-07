@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,49542,o=>{"use strict";o.s(["IDLE_STATE",0,{ok:!1}])}]);
